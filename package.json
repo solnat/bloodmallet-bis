@@ -1,0 +1,9 @@
+{
+  "name": "blood-optimizer",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react-router-dom": "^4.3.1",
+    "whatwg-fetch": "^3.0.0"
+  }
+}

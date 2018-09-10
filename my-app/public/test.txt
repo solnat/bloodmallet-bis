@@ -1,0 +1,59 @@
+# SimC Addon 1.10.5
+# 8.0 Note: reforge= is being used as a hacky way to capture item context. This will be changed in 8.1
+
+paladin="Pallymcfly"
+level=120
+race=tauren
+region=us
+server=barthilas
+role=attack
+professions=alchemy=115/herbalism=165
+talents=2333233
+spec=retribution
+
+head=,id=155885,bonus_id=4818/1497/4785,reforge=2,azerite_powers=479/44
+neck=,id=158075,bonus_id=4933/4936/4929/1504,reforge=11,azerite_level=17
+shoulder=,id=157964,bonus_id=1517/4785,reforge=25,azerite_powers=482/85
+back=,id=159287,bonus_id=4779/1527/4784,reforge=23
+chest=,id=159416,bonus_id=4819/1512/4786,reforge=23,azerite_powers=479
+tabard=,id=31773
+wrist=,id=157902,bonus_id=4803/41/1527/4783,reforge=27
+hands=,id=159421,bonus_id=4778/1502/4781,reforge=2
+waist=,id=159450,bonus_id=4778/1512/4784,reforge=2
+legs=,id=159456,bonus_id=4779/1517/4783,reforge=23
+feet=,id=155861,bonus_id=4779/1512/4786,reforge=23
+finger1=,id=159463,enchant_id=5939,bonus_id=4778/1497/4785,reforge=2
+finger2=,id=159460,enchant_id=5939,bonus_id=4779/1517/4783,reforge=23
+trinket1=,id=159627,bonus_id=4779/1512/4786,reforge=23
+trinket2=,id=158154,gem_id=153711,bonus_id=4803/4802/1517/4785,reforge=26
+main_hand=,id=159634,bonus_id=4778/1507/4783,reforge=2
+
+### Gear from Bags
+#
+# Greathelm of Rezan's Bladeguard (325)
+# head=,id=157929,bonus_id=1517/4785,reforge=26,azerite_powers=157/14
+#
+# Skyscorcher Pauldrons (340)
+# shoulder=,id=159415,bonus_id=4819/1512/4786,reforge=23,azerite_powers=189
+#
+# Boralus Sailor's Cloak (340)
+# back=,id=158159,gem_id=153711,bonus_id=4803/4802/1532/4783,reforge=27
+#
+# Cloak of Coordination (58)
+# back=,id=65274,reforge=14
+#
+# Honorbound Centurion's Breastplate (340)
+# chest=,id=163459,bonus_id=5125/1532/5138,reforge=28,azerite_powers=150/98
+#
+# Legplates of Profane Sacrifice (340)
+# legs=,id=159443,bonus_id=4779/1512/4786,reforge=23
+#
+# Vial of Animated Blood (345)
+# trinket1=,id=159625,bonus_id=4779/40/1517/4783,reforge=23
+#
+# Razorbone Carver (330)
+# main_hand=,id=158110,bonus_id=4803/1522/4785,reforge=27
+#
+# G0-4W4Y Crowd Repeller (325)
+# off_hand=,id=159663,gem_id=153711,bonus_id=4778/4802/1497/4785,reforge=2
+#
